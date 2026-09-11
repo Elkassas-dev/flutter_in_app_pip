@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_in_app_pip/flutter_in_app_pip.dart';
 
 class MyHttpOverrides extends HttpOverrides {
